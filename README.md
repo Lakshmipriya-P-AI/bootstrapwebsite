@@ -863,7 +863,7 @@ ABOUT US:
 ## OUTPUT:
 
 ### Home Page:
-![output](./bprdwebsite/static/img/homepage.png)
+![output](./bprdwebsite/static/img/homepage.PNG)
 
 ### General Message:
 ![output](././bprdwebsite/static/img/general.PNG)
